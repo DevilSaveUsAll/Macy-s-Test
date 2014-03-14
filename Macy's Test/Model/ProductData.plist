@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Product1</key>
+	<dict>
+		<key>id</key>
+		<string>itemOne</string>
+		<key>name</key>
+		<string>Dress</string>
+		<key>description</key>
+		<string>A beautiful dress</string>
+		<key>Regular Price</key>
+		<real>9.99</real>
+		<key>Sale Price</key>
+		<real>4.99</real>
+		<key>photoName</key>
+		<string>RedClothing.png</string>
+		<key>Colors</key>
+		<array>
+			<string>Red</string>
+			<string>Pink</string>
+			<string>Yellow</string>
+		</array>
+		<key>stores</key>
+		<dict>
+			<key>location1</key>
+			<string>San Francisco</string>
+			<key>location2</key>
+			<string>New York</string>
+		</dict>
+	</dict>
+	<key>Product2</key>
+	<dict>
+		<key>id</key>
+		<string>itemTwo</string>
+		<key>name</key>
+		<string>Shirt</string>
+		<key>description</key>
+		<string>A very good looking shirt</string>
+		<key>Regular Price</key>
+		<real>14.99</real>
+		<key>Sale Price</key>
+		<real>10.99</real>
+		<key>photoName</key>
+		<string>BlueClothing.png</string>
+		<key>Colors</key>
+		<array>
+			<string>Blue</string>
+			<string>Teal</string>
+			<string>Light-Blue</string>
+		</array>
+		<key>stores</key>
+		<dict>
+			<key>location1</key>
+			<string>San Francisco</string>
+			<key>location2</key>
+			<string>New York</string>
+		</dict>
+	</dict>
+	<key>Product3</key>
+	<dict>
+		<key>id</key>
+		<string>itemThree</string>
+		<key>name</key>
+		<string>Shoes</string>
+		<key>description</key>
+		<string>A shoe that fits very well</string>
+		<key>Regular Price</key>
+		<real>29.99</real>
+		<key>Sale Price</key>
+		<real>19.99</real>
+		<key>photoName</key>
+		<string>BrownShoes.png</string>
+		<key>Colors</key>
+		<array>
+			<string>Brown</string>
+			<string>Black</string>
+			<string>Light-Brown</string>
+		</array>
+		<key>stores</key>
+		<dict>
+			<key>location1</key>
+			<string>San Francisco</string>
+			<key>location2</key>
+			<string>New York</string>
+		</dict>
+	</dict>
+	<key>Product4</key>
+	<dict>
+		<key>id</key>
+		<string>itemFour</string>
+		<key>name</key>
+		<string>Handbag</string>
+		<key>description</key>
+		<string>A handbag that suits all ages of females</string>
+		<key>Regular Price</key>
+		<real>49.99</real>
+		<key>Sale Price</key>
+		<real>39.99</real>
+		<key>photoName</key>
+		<string>RedHandbag.png</string>
+		<key>Colors</key>
+		<array>
+			<string>Red</string>
+			<string>Pink</string>
+			<string>Brown</string>
+		</array>
+		<key>stores</key>
+		<dict>
+			<key>location1</key>
+			<string>San Francisco</string>
+			<key>location2</key>
+			<string>New York</string>
+		</dict>
+	</dict>
+	<key>Product5</key>
+	<dict>
+		<key>id</key>
+		<string>itemFive</string>
+		<key>name</key>
+		<string>Bed</string>
+		<key>description</key>
+		<string>A bed truly fit for the Queen</string>
+		<key>Regular Price</key>
+		<real>199.99</real>
+		<key>Sale Price</key>
+		<real>149.99</real>
+		<key>photoName</key>
+		<string>QueenSizeBed</string>
+		<key>Colors</key>
+		<array>
+			<string>Red</string>
+			<string>Pink</string>
+			<string>Yellow</string>
+		</array>
+		<key>stores</key>
+		<dict>
+			<key>location1</key>
+			<string>San Francisco</string>
+			<key>location2</key>
+			<string>New York</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
